@@ -1,0 +1,24 @@
+{
+  "name": "piedra-papel-tijera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lealarrama/piedra-papel-tijera.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lealarrama/piedra-papel-tijera/issues"
+  },
+  "homepage": "https://github.com/lealarrama/piedra-papel-tijera#readme"
+}
